@@ -1,9 +1,3 @@
----
-title: "Reproducible Research - Peer Assigment 1"
-author: "Lukasz Bentkowski"
-output: html_document
----
-
 # Reproducible Research - Peer Assigment 1
 
 Hello,
