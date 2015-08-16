@@ -1,4 +1,4 @@
-# Reproducible Research - Peer Assigment 1
+# Rep. Research - Peer Assigment 1
 
 Hello,
 This is my html file created in RStudio using R 3.2.1 and **knitr** to fulfill Peer Assigment 1 in Reproducible Research at Coursera.org
